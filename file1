@@ -1,1 +1,10 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Laborator 2</title>
+</head>
+<body>
+    <h1>Salut! Am reușit să adaug cod din browser.</h1>
+    <p>Acesta este fișierul meu pentru laborator.</p>
+</body>
+</html>
